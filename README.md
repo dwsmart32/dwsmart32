@@ -1,4 +1,4 @@
-👋# **Welcome to donguri's github**👋
+# 👋**Welcome to donguri's github**👋
 
 ## DongWook, Lee :laughing:
 
