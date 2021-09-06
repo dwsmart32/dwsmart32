@@ -10,7 +10,7 @@ Hi, My name is DongWook Lee in Seoul National University (SNU), Korea
 
 ##  Major
 
-- Naval Architecture and Ocean Enginnering (NAOE)
+- Naval Architecture and Ocean Engineering (NAOE)
 - System Semiconductor Engineering for A.I. (SSEA)
 
 
