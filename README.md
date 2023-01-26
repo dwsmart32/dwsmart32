@@ -12,7 +12,8 @@ Hi, My name is DongWook Lee at Seoul National University (SNU), Korea
 - [CV download link](https://www.notion.so/CV-6104319628ee4640af35cb08b955b488)
 
 ## Organization
-Organization at left below that I involved in
+Organization at left below that I am involved in.
+
 [Programming_in_AI](https://github.com/orgs/Programming-in-AI/repositories)
 
 [DL_project](https://github.com/orgs/SNU-DL-Project/repositories)
