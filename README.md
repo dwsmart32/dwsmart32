@@ -7,13 +7,19 @@
 <br/>
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://stump-marjoram-7b8.notion.site/DongWook_Lee-8344d27c97bf42359599154ec047bf6f)
 <br/>
-Hi, My name is DongWook Lee in Seoul National University (SNU), Korea
+Hi, My name is DongWook Lee at Seoul National University (SNU), Korea
+[CV download link](https://www.notion.so/CV-6104319628ee4640af35cb08b955b488)
 
+## Organization
+Organization at left below that I involved in
+[Programming_in_AI](https://github.com/orgs/Programming-in-AI/repositories)
+[DL_project](https://github.com/orgs/SNU-DL-Project/repositories)
+[MCA](https://github.com/MCA-Team2/MCA-Team2)
 
 ##  Major
 
 - Naval Architecture and Ocean Engineering (NAOE)
-- System Semiconductor Engineering for A.I. (SSEA)
+- Computer Science Engineering(CSE)
 
 
 ## Certificate
