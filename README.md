@@ -14,11 +14,11 @@ Hi, My name is DongWook Lee at Seoul National University (SNU), Korea
 ## Organization
 Organization at left below that I am involved in.
 
-[Programming_in_AI](https://github.com/orgs/Programming-in-AI/repositories)
+- [Programming_in_AI](https://github.com/orgs/Programming-in-AI/repositories)
 
-[DL_project](https://github.com/orgs/SNU-DL-Project/repositories)
+- [DL_project](https://github.com/orgs/SNU-DL-Project/repositories)
 
-[MCA](https://github.com/MCA-Team2/MCA-Team2)
+- [MCA](https://github.com/MCA-Team2/MCA-Team2)
 
 
 ##  Major
