@@ -2,7 +2,8 @@
 
 # DongWook, Lee 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwsmart32&count_bg=%234387CF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- You can check my [CV](https://sites.google.com/snu.ac.kr/dwsmart32)
+- [Curriculum Vitae](https://sites.google.com/snu.ac.kr/dwsmart32)
+- [Notion(Korean)](https://www.notion.so/DongWook_Lee-8344d27c97bf42359599154ec047bf6f?pvs=4)
 
 ##  Major
 - Naval Architecture and Ocean Engineering (NAOE)
