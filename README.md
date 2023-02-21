@@ -28,8 +28,7 @@ Organizations that I am involved in.
 
 
 ## Certificate
-- TensorFlow Developer Certificate(`21. 3. 14. ~)
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://www.credential.net/819da790-f525-4105-beea-4f0d1747354f?_ga=2.103109440.1910493313.1615820618-343386208.1615820618#gs.a5kwes)](https://www.credential.net/819da790-f525-4105-beea-4f0d1747354f?_ga=2.103109440.1910493313.1615820618-343386208.1615820618#gs.a5kwes)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://www.credential.net/819da790-f525-4105-beea-4f0d1747354f?_ga=2.103109440.1910493313.1615820618-343386208.1615820618#gs.a5kwes)](https://www.credential.net/819da790-f525-4105-beea-4f0d1747354f?_ga=2.103109440.1910493313.1615820618-343386208.1615820618#gs.a5kwes) TensorFlow Developer Certificate(`21. 3. 14. ~)
 
 ## Contact
 - dwsmart32@snu.ac.kr
