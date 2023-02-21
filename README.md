@@ -10,7 +10,7 @@
 - Naval Architecture and Ocean Engineering (NAOE)
 - Computer Science Engineering(CSE)
 
-# Stacks
+## Stacks
 ---
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/> <img alt="Jamboard" src ="https://img.shields.io/badge/Jamboard-F37C20.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter Lab&logoColor=white"/> 
 
