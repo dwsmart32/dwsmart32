@@ -1,12 +1,10 @@
 
 
 # DongWook, Lee :laughing:
-
+You can check another information in Notion ([![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://stump-marjoram-7b8.notion.site/DongWook_Lee-8344d27c97bf42359599154ec047bf6f))
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwsmart32&count_bg=%234387CF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/>
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://stump-marjoram-7b8.notion.site/DongWook_Lee-8344d27c97bf42359599154ec047bf6f)
-<br/>
+
 Hi, My name is DongWook Lee at Seoul National University (SNU), Korea
 
 - [CV download link](https://www.notion.so/CV-6104319628ee4640af35cb08b955b488)
