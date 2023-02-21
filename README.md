@@ -1,13 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwsmart32&count_bg=%234387CF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # DongWook, Lee 
-  I'm undergraduate student in Seoul National University in Computer Vision field, you can check my informataion below
-- [Curriculum Vitae](https://sites.google.com/snu.ac.kr/dwsmart32)
-- [Notion(Korean)](https://www.notion.so/DongWook_Lee-8344d27c97bf42359599154ec047bf6f?pvs=4)
 
 ##  Major
-- Naval Architecture and Ocean Engineering (NAOE)
-- Computer Science Engineering(CSE)
+- Seoul National University, BA in Naval Architecture and Ocean Engineering(NAOE)
+- Seoul National University, BA inComputer Science Engineering(CSE)
+
+## About me
+- [CV website](https://sites.google.com/snu.ac.kr/dwsmart32)
+- [Notion(Korean)](https://www.notion.so/DongWook_Lee-8344d27c97bf42359599154ec047bf6f?pvs=4)
 
 ## Stacks
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/> <img alt="Jamboard" src ="https://img.shields.io/badge/Jamboard-F37C20.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter Lab&logoColor=white"/> 
