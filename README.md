@@ -32,5 +32,5 @@
 - [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://www.credential.net/819da790-f525-4105-beea-4f0d1747354f?_ga=2.103109440.1910493313.1615820618-343386208.1615820618#gs.a5kwes)](https://www.credential.net/819da790-f525-4105-beea-4f0d1747354f?_ga=2.103109440.1910493313.1615820618-343386208.1615820618#gs.a5kwes) TensorFlow Developer Certificate(`21. 3. 14. ~)
 
 ## Contact
-- [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://stump-marjoram-7b8.notion.site/DongWook_Lee-8344d27c97bf42359599154ec047bf6f)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwsmart32@snu.ac.kr)](mailto:dwsmart32@snu.ac.kr)   
+- dwsmart32@snu.ac.kr
  
