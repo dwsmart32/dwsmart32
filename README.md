@@ -6,7 +6,7 @@
 - Seoul National University, BA in Naval Architecture and Ocean Engineering(NAOE)
 - Seoul National University, BA in Computer Science Engineering(CSE)
 
-## About me
+## Curriculum Vitae
 - [CV website](https://sites.google.com/snu.ac.kr/dwsmart32)
 - [Notion(Korean)](https://www.notion.so/DongWook_Lee-8344d27c97bf42359599154ec047bf6f?pvs=4)
 
