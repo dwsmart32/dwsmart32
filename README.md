@@ -4,7 +4,7 @@
 
 ##  Major
 - Seoul National University, BA in Naval Architecture and Ocean Engineering(NAOE)
-- Seoul National University, BA inComputer Science Engineering(CSE)
+- Seoul National University, BA in Computer Science Engineering(CSE)
 
 ## About me
 - [CV website](https://sites.google.com/snu.ac.kr/dwsmart32)
