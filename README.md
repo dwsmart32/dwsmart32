@@ -6,7 +6,7 @@
 - Seoul National University, B.S. in Naval Architecture and Ocean Engineering(NAOE)
 - Seoul National University, B.S. in Computer Science Engineering(CSE)
 
-## Homapage
+## Homepage
 - [dwsmart32.github.io](https://dwsmart32.github.io/)
 
 ## Stacks
