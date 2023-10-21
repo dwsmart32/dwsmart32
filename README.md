@@ -3,8 +3,8 @@
 # DongWook, Lee
 
 ##  Major
-- Seoul National University, BA in Naval Architecture and Ocean Engineering(NAOE)
-- Seoul National University, BA in Computer Science Engineering(CSE)
+- Seoul National University, B.S. in Naval Architecture and Ocean Engineering(NAOE)
+- Seoul National University, B.S. in Computer Science Engineering(CSE)
 
 ## Homapage
 - [dwsmart32.github.io](https://dwsmart32.github.io/)
