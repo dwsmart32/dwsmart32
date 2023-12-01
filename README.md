@@ -2,8 +2,7 @@
 
 # Dongwook, Lee
 
-## Homepage
-- [Link](https://dwsmart32.github.io/)
+## [Homepage](https://dwsmart32.github.io/)
 
 ##  Major
 -  B.S. in Naval Architecture and Ocean Engineering(NAOE), Seoul National University(SNU)
