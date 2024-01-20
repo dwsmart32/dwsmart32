@@ -3,11 +3,10 @@
 # Dongwook, Lee
 
 ## Homepage
-- [Visit](https://dwsmart32.github.io/)
-
+- More information: [Click!](https://dwsmart32.github.io/)
 
 ## Language
 - Korean(native)
 - English(fluent)
-- Mandarin Chinese(fluent)
+- Mandarin(fluent)
 
