@@ -3,10 +3,10 @@
 # Dongwook, Lee 🌏:
 Hi, 👋  I am dongwook, senior student at SNU(Seoul National University, CSE).
 <br/>
-My research domain is focuesd on Reinforcement Learning 🤖.
+My research domain is focuesd on **reinforcement learning** 🤖.
 
 ## Homepage
-More about [me!](https://dwsmart32.github.io/)
+More about **[me!](https://dwsmart32.github.io/)**
 
 ## Language
 - Korean(native)
