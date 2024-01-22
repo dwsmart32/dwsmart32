@@ -3,7 +3,7 @@
 # Dongwook, Lee 🌏
 Hey! 👋  I’m a fourth year undergraduate student at Seoul National University studying computer science.
 I’m particularly interested in reinforcement learning and guiding 🤖 agents to survive in uncertain environments.
-Plus, I’m also very interested in multi-domain topics, especially in the fields of image🖼️ and text📖 processing.
+Plus, I’m also very interested in multi-domain topics, especially in the fields of image 🖼️ and text 📖 processing.
 
 
 ## Homepage
