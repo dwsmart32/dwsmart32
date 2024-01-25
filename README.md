@@ -13,4 +13,4 @@
 <br/>
 <br/>
 
-![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwsmart32&show_icons=false&theme=radical&count_private=true&hide=stars&hide_rank=true&include_all_commits=false)
+![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwsmart32&show_icons=false&theme=radical&count_private=true&hide=stars&hide_rank=true&include_all_commits=true)
