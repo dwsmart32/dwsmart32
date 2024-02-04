@@ -4,11 +4,11 @@
 ---
 #### About me
 👋 Hey! I’m a fourth year undergraduate student at Seoul National University studying computer science.<br/>
-🕸️ Personal website: more about **[me!](https://dwsmart32.github.io/)**.<br/>
-🔗 LinkedIn: **[visit](https://www.linkedin.com/in/dongwook-lee-1738701b2/)**.<br/>
+🕸️ Personal website: More about **[me!](https://dwsmart32.github.io/)**.<br/>
+🔗 LinkedIn: **[Visit](https://www.linkedin.com/in/dongwook-lee-1738701b2/)**.<br/>
 📫 Feel free to contact me anytime <a href="mailto:dwsmart32@snu.ac.kr">dwsmart32@snu.ac.kr</a>.<br/>
 🤖 I am deeply intersted in reinforcement learning.<br/>
-📢 I have the ability to communicate effectively in three different languages, Korean(native), English(fluent), Mandarin(fluent).<br/>
+📢 I have the ability to communicate in three different languages, Korean(native), English(fluent), Mandarin(fluent).<br/>
 
 <br/>
 <br/>
